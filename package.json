@@ -1,0 +1,25 @@
+{
+  "name": "private-repo",
+  "version": "1.0.0",
+  "description": "my own repo",
+  "homepage": "https://github.com/Akash504-ai/Private-repo#readme",
+  "bugs": {
+    "url": "https://github.com/Akash504-ai/Private-repo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akash504-ai/Private-repo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.30.0"
+  }
+}
